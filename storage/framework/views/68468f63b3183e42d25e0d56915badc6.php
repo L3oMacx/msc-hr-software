@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\hr-software-3\resources\views/components/application-mark.blade.php ENDPATH**/ ?>
